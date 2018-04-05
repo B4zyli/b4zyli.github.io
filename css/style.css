@@ -8,6 +8,8 @@ li p{
 }
 img {
  margin: 0 auto;
+ height: auto;
+ 
 }
 .wu{ 
     height: 564px; 
@@ -27,4 +29,5 @@ p{
 .a nav-link{
   transition: background;
 }
+
 
