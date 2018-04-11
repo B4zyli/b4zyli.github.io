@@ -9,6 +9,10 @@ li p{
 img {
  margin: 0 auto;
  height: auto;
+ width:auto;
+  max-width: 100%;
+   
+}
  
 }
 .wu{ 
@@ -29,5 +33,18 @@ p{
 .a nav-link{
   transition: background;
 }
+/*sticky footer
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 20;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: right;
+      margin: 10px 500px 0px 00px;
+*/
 
+}
 
