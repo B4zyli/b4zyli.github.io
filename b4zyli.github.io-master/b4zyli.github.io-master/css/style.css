@@ -1,0 +1,47 @@
+body{
+  background-color:black	;
+  color:gray;
+     /*margin: 25px 50px 150px 100px;*/
+
+}
+li p{
+    margin: 100px 0px 0px 100px;
+}
+img {
+ margin: 0 auto;
+ height: auto;
+ width:auto;
+  max-width: 100%;
+   
+}
+ 
+}
+.wu{ 
+    height: 564px; 
+   background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+} 
+.black{
+   background-color:black	;
+}
+h3 {
+    padding:30px 0px 0px 30px;
+}
+p{
+    padding:30px 0px 0px 30px;
+}
+.a nav-link{
+  transition: background;
+}
+.container{
+  max-width: auto;
+
+}
+@media (max-width: 599px)
+{
+  
+}
+
+
+
